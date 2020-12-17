@@ -11,7 +11,7 @@
 
 </head>
 
-<body>
+<body style="background-color: #d7dbd8;">
 
     <nav class="navbar navbar-expand" style="background:  linear-gradient(to right top, #610766, #69086c, #710a71, #7a0c77, #820d7c, #890e82, #910e87, #980f8d, #9f0f95, #a70e9d, #ae0da6, #b50dae);">
         <div class="container">
